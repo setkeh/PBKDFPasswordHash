@@ -1,0 +1,28 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PBKDFPassworrdHash", "PBKDFPassworrdHash\PBKDFPassworrdHash.csproj", "{0EEB8029-3B52-4EF1-9603-4F5EE30EDC36}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PBKDFPassworrdHash.Tests", "PBKDFPassworrdHash.Tests\PBKDFPassworrdHash.Tests.csproj", "{567E8D78-BEEE-4922-AF07-8E5CBC66E977}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EEB8029-3B52-4EF1-9603-4F5EE30EDC36}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EEB8029-3B52-4EF1-9603-4F5EE30EDC36}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EEB8029-3B52-4EF1-9603-4F5EE30EDC36}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EEB8029-3B52-4EF1-9603-4F5EE30EDC36}.Release|Any CPU.Build.0 = Release|Any CPU
+		{567E8D78-BEEE-4922-AF07-8E5CBC66E977}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{567E8D78-BEEE-4922-AF07-8E5CBC66E977}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{567E8D78-BEEE-4922-AF07-8E5CBC66E977}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{567E8D78-BEEE-4922-AF07-8E5CBC66E977}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
