@@ -3,7 +3,7 @@ PBKDFPasswordHash
 
 <img src="http://img.shields.io/gratipay/setkeh.svg"> [![NuGet](https://img.shields.io/nuget/dt/PBKDFPassworrdHash.svg)](https://www.nuget.org/packages/PBKDFPassworrdHash)
 [![NuGet](https://img.shields.io/nuget/v/PBKDFPassworrdHash.svg)](https://www.nuget.org/packages/PBKDFPassworrdHash)
-[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)](https://travis-ci.org/setkeh/PBKDFPasswordHash)
+[![Travis](https://img.shields.io/travis/setkeh/PBKDFPasswordHash.svg)](https://travis-ci.org/setkeh/PBKDFPasswordHash)
 
 <img src="http://blob.setkeh.com/screenshots/screenshot-12.18.15-00.28.04.png">
 
